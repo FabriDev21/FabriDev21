@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Fabrizzio José Roldán
 
-<!--
-**FabriDev21/FabriDev21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Front-End Developer passionate about web technologies and continuous learning.
 
-Here are some ideas to get you started:
+🌱 Currently working with:
+React • TypeScript • Tailwind CSS • JavaScript • HTML • CSS • Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚴‍♂️ First project: [bikesjgonzalez.com](https://bikesjgonzalez.com)
+
+📫 Contact me: fabrizziof2104@gmail.com  
+📄 [Download my CV (English & Portuguese)](link_to_pdf)
+
+---
+
+### 🧠 Technologies & Tools
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+![Fabrizzio's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabrizziojr&show_icons=true&theme=radical)
