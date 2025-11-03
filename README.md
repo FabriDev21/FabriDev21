@@ -6,9 +6,10 @@ I'm a passionate **front-end developer** focused on building modern, high-perfor
 🚴‍♂️ First professional project: [bikesjgonzalez.com](https://bikesjgonzalez.com)
 
 📫 Contact me: [fabrizziof2104@gmail.com](mailto:fabrizziof2104@gmail.com)  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabrizzio-roldan-73655b385/)
 📄 [Download my CV (English)](https://github.com/FabriDev21/fabrizziojr/tree/main/assets/fabrizzio_roldan_CV-En.pdf)  
 📄 [Download my CV (Portuguese)](https://github.com/FabriDev21/fabrizziojr/tree/main/assets//Fabrizzio_Jose_Roldan_CV_Portugues.pdf)
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabrizzio-roldan-73655b385/)
 
 ---
 
