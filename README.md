@@ -28,4 +28,4 @@ React • TypeScript • Tailwind CSS • JavaScript • HTML • CSS • Git
 
 ### 📈 GitHub Stats
 
-![Fabrizzio's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabriDev21r&show_icons=true&theme=radical)
+![Fabrizzio's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabriDev21&show_icons=true&theme=radical)
