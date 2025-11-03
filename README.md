@@ -9,8 +9,8 @@
 🚴‍♂️ First professional project: [bikesjgonzalez.com](https://bikesjgonzalez.com)
 
 📫 Contact me: [fabrizziof2104@gmail.com](mailto:fabrizziof2104@gmail.com)  
-📄 [Download my CV (English)](assets/fabrizzio_roldan_CV-en.pdf)  
-📄 [Download my CV (Portuguese)](assets/Fabrizzio_Jose_Roldan_CV_Portugues.pdf)
+📄 [Download my CV (English)](https://github.com/FabriDev21/fabrizziojr/tree/main/assets/fabrizzio_roldan_CV-En.pdf)  
+📄 [Download my CV (Portuguese)](https://github.com/FabriDev21/fabrizziojr/tree/main/assets//Fabrizzio_Jose_Roldan_CV_Portugues.pdf)
 
 ---
 
