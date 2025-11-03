@@ -1,3 +1,8 @@
+# 👋 Hello, I'm Fabrizzio Roldan
+
+Welcome to my GitHub profile!  
+I'm a passionate **front-end developer** focused on building modern, high-performance web experiences with **React, TypeScript, and Vite**.
+
 🚴‍♂️ First professional project: [bikesjgonzalez.com](https://bikesjgonzalez.com)
 
 📫 Contact me: [fabrizziof2104@gmail.com](mailto:fabrizziof2104@gmail.com)  
